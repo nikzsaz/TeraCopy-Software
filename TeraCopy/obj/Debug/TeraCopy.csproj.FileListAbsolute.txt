@@ -1,0 +1,8 @@
+C:\Documents and Settings\knmiet.KNMIET-BF956C54\My Documents\Visual Studio 2008\Projects\TeraCopy\TeraCopy\bin\Debug\TeraCopy.exe
+C:\Documents and Settings\knmiet.KNMIET-BF956C54\My Documents\Visual Studio 2008\Projects\TeraCopy\TeraCopy\bin\Debug\TeraCopy.pdb
+C:\Documents and Settings\knmiet.KNMIET-BF956C54\My Documents\Visual Studio 2008\Projects\TeraCopy\TeraCopy\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\knmiet.KNMIET-BF956C54\My Documents\Visual Studio 2008\Projects\TeraCopy\TeraCopy\obj\Debug\TeraCopy.Form1.resources
+C:\Documents and Settings\knmiet.KNMIET-BF956C54\My Documents\Visual Studio 2008\Projects\TeraCopy\TeraCopy\obj\Debug\TeraCopy.Properties.Resources.resources
+C:\Documents and Settings\knmiet.KNMIET-BF956C54\My Documents\Visual Studio 2008\Projects\TeraCopy\TeraCopy\obj\Debug\TeraCopy.csproj.GenerateResource.Cache
+C:\Documents and Settings\knmiet.KNMIET-BF956C54\My Documents\Visual Studio 2008\Projects\TeraCopy\TeraCopy\obj\Debug\TeraCopy.exe
+C:\Documents and Settings\knmiet.KNMIET-BF956C54\My Documents\Visual Studio 2008\Projects\TeraCopy\TeraCopy\obj\Debug\TeraCopy.pdb
